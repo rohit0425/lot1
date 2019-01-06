@@ -1,4 +1,4 @@
-# dice
+# Lottery
 
 ## Project setup
 ```
